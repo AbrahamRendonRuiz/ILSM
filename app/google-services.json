@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "321025264925",
+    "firebase_url": "https://ilsm-2020.firebaseio.com",
+    "project_id": "ilsm-2020",
+    "storage_bucket": "ilsm-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321025264925:android:4f5a140a7340326b7ae5f4",
+        "android_client_info": {
+          "package_name": "com.example.ilsm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321025264925-0dqdra8gpq19ar0mr9m9091a268dn34p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp7CCA3nilgHz-Ij5IYKyM8SJiq31q308"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321025264925-0dqdra8gpq19ar0mr9m9091a268dn34p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
